@@ -4,7 +4,7 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Component;
 
 import com.transaction.consumer.dto.TransactionDto;
-import com.transaction.consumer.vo.TransactionVo;
+import com.transaction.producer.vo.TransactionVo;
 
 @Component
 public class VoDtoConvertor {

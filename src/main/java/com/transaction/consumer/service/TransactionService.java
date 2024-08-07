@@ -1,6 +1,6 @@
 package com.transaction.consumer.service;
 
-import com.transaction.consumer.vo.TransactionVo;
+import com.transaction.producer.vo.TransactionVo;
 
 public interface TransactionService {
 	

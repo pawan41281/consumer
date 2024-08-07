@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import com.transaction.consumer.dao.TrandactionDao;
 import com.transaction.consumer.dto.TransactionDto;
 import com.transaction.consumer.util.VoDtoConvertor;
-import com.transaction.consumer.vo.TransactionVo;
+import com.transaction.producer.vo.TransactionVo;
 
 @Service
 public class TransactionServiceImpl implements TransactionService {
